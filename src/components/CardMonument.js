@@ -1,7 +1,8 @@
 import { Flex, Text, Image, Box, Button, AspectRatio } from '@chakra-ui/react';
 import MonumentCardModal from './MonumentCardModal';
 
-import b1 from '../assets/images/monument/B1.JPG';
+import cornerSubtract from '../assets/images/cornerSubtract.png';
+import cornerSubtractSun from '../assets/images/cornerSubtractSun.png';
 
 const CardMonument = props => {
   const { theme, name, image, history, address, googleMap, link } = props;
@@ -13,6 +14,15 @@ const CardMonument = props => {
         borderRadius="20px 0 0 20px"
         position="relative"
       >
+        <Image
+          position="absolute"
+          bottom="0"
+          left="42px"
+          src={theme ? cornerSubtractSun : cornerSubtract}
+          w="60px"
+          h="60px"
+          zIndex="1"
+        />
         <Flex
           align="flex-end"
           borderRadius="0 0 0 20px"
@@ -26,17 +36,7 @@ const CardMonument = props => {
           bg={theme || 'umi'}
           zIndex="1"
         >
-          <Text
-            // writingMode="vertical-lr"
-            lineHeight="22px"
-            fontSize="17px"
-            // style={{ writingMode: 'vertical-lr' }}
-            px="15px"
-            // mx="15px"
-            // w="50px"
-            // textAlign="center"
-            color="white"
-          >
+          <Text lineHeight="22px" fontSize="17px" px="15px" color="white">
             {name}
           </Text>
         </Flex>
