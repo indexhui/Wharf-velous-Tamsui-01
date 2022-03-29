@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Wharf-velous-Tamsui-01/static/js/main.ce3dadd0.js",
+    "main.js": "/Wharf-velous-Tamsui-01/static/js/main.7ca07ef4.js",
     "static/js/377.5e2355f2.chunk.js": "/Wharf-velous-Tamsui-01/static/js/377.5e2355f2.chunk.js",
     "static/media/B15.jpg": "/Wharf-velous-Tamsui-01/static/media/B15.418784c1f6bb6277dc54.jpg",
     "static/media/leafs.svg": "/Wharf-velous-Tamsui-01/static/media/leafs.e7fbb299d0de0e2e8b62cae11fda35d7.svg",
@@ -57,10 +57,10 @@
     "static/media/title01_wave.svg": "/Wharf-velous-Tamsui-01/static/media/title01_wave.c5c7ac2a54e15b80386e515f3de3c35b.svg",
     "index.html": "/Wharf-velous-Tamsui-01/index.html",
     "static/media/hero_left_corner.svg": "/Wharf-velous-Tamsui-01/static/media/hero_left_corner.c763a962d1bbef9bbe4b6a1ba18d235d.svg",
-    "main.ce3dadd0.js.map": "/Wharf-velous-Tamsui-01/static/js/main.ce3dadd0.js.map",
+    "main.7ca07ef4.js.map": "/Wharf-velous-Tamsui-01/static/js/main.7ca07ef4.js.map",
     "377.5e2355f2.chunk.js.map": "/Wharf-velous-Tamsui-01/static/js/377.5e2355f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ce3dadd0.js"
+    "static/js/main.7ca07ef4.js"
   ]
 }
