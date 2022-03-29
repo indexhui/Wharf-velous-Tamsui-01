@@ -18,7 +18,7 @@ const CardMonument = props => {
           borderRadius="0 0 0 20px"
           justify="center"
           pb="20px"
-          w="30px"
+          w="42px"
           h="100%"
           position="absolute"
           left="0"
@@ -28,7 +28,8 @@ const CardMonument = props => {
         >
           <Text
             // writingMode="vertical-lr"
-            lineHeight="18px"
+            lineHeight="22px"
+            fontSize="17px"
             // style={{ writingMode: 'vertical-lr' }}
             px="15px"
             // mx="15px"
