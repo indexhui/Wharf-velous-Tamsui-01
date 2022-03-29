@@ -19,8 +19,8 @@ const CardMonument = props => {
           bottom="0"
           left="42px"
           src={theme ? cornerSubtractSun : cornerSubtract}
-          w="60px"
-          h="60px"
+          w="30px"
+          h="30px"
           zIndex="1"
         />
         <Flex
