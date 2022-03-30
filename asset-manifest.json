@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Wharf-velous-Tamsui-01/static/js/main.1a1a0a0a.js",
+    "main.js": "/Wharf-velous-Tamsui-01/static/js/main.e8d14203.js",
     "static/js/377.5e2355f2.chunk.js": "/Wharf-velous-Tamsui-01/static/js/377.5e2355f2.chunk.js",
     "static/media/B15.jpg": "/Wharf-velous-Tamsui-01/static/media/B15.418784c1f6bb6277dc54.jpg",
     "static/media/leafs.svg": "/Wharf-velous-Tamsui-01/static/media/leafs.e7fbb299d0de0e2e8b62cae11fda35d7.svg",
     "static/media/A11.jpg": "/Wharf-velous-Tamsui-01/static/media/A11.3a33113c61db3c3d3526.jpg",
     "static/media/A-5.png": "/Wharf-velous-Tamsui-01/static/media/A-5.54f69de07786c6353aaf.png",
     "static/media/B13.jpg": "/Wharf-velous-Tamsui-01/static/media/B13.327c4e328302f428c03d.jpg",
-    "static/media/A12.jpg": "/Wharf-velous-Tamsui-01/static/media/A12.a132190e8e601a845c5c.jpg",
     "static/media/B20.jpg": "/Wharf-velous-Tamsui-01/static/media/B20.825faa087c231adf4636.jpg",
     "static/media/B10.JPG": "/Wharf-velous-Tamsui-01/static/media/B10.498e0e98ebe9dbee7bc8.JPG",
     "static/media/A-3.png": "/Wharf-velous-Tamsui-01/static/media/A-3.fe70cd2d5cca80187ce8.png",
     "static/media/B17.JPG": "/Wharf-velous-Tamsui-01/static/media/B17.44f3fc12f748ac168ccf.JPG",
+    "static/media/A12.jpeg": "/Wharf-velous-Tamsui-01/static/media/A12.85ad6a2f585914457ce9.jpeg",
     "static/media/B18.jpg": "/Wharf-velous-Tamsui-01/static/media/B18.c6abe959c2a55193cd8d.jpg",
     "static/media/B19.JPG": "/Wharf-velous-Tamsui-01/static/media/B19.4c6aded0829b8d137797.JPG",
     "static/media/A-4.png": "/Wharf-velous-Tamsui-01/static/media/A-4.4a47f7fd6f4e961b263f.png",
@@ -20,6 +20,7 @@
     "static/media/C-3.png": "/Wharf-velous-Tamsui-01/static/media/C-3.7419b20b422557a1196d.png",
     "static/media/B14.jpg": "/Wharf-velous-Tamsui-01/static/media/B14.a1d38cf257cb8c3ce03e.jpg",
     "static/media/A-7.jpg": "/Wharf-velous-Tamsui-01/static/media/A-7.e9c6e328db27a6a6ca46.jpg",
+    "static/media/A1.jpeg": "/Wharf-velous-Tamsui-01/static/media/A1.10ad6ec676181d789d04.jpeg",
     "static/media/title01_bank.png": "/Wharf-velous-Tamsui-01/static/media/title01_bank.ee194c57fd4bb6cb9fa3.png",
     "static/media/B5.JPG": "/Wharf-velous-Tamsui-01/static/media/B5.69ea89be1dd27b63ec74.JPG",
     "static/media/leaf.svg": "/Wharf-velous-Tamsui-01/static/media/leaf.49f0a1197d41f9fb288d1f4d50d44e4e.svg",
@@ -45,7 +46,6 @@
     "static/media/ship04.png": "/Wharf-velous-Tamsui-01/static/media/ship04.e633f72763335938088c.png",
     "static/media/c-2.jpg": "/Wharf-velous-Tamsui-01/static/media/c-2.b7582c176996845876a7.jpg",
     "static/media/A8.png": "/Wharf-velous-Tamsui-01/static/media/A8.baba066c3f844d6176f8.png",
-    "static/media/a-1.jpg": "/Wharf-velous-Tamsui-01/static/media/a-1.8c0fec76908406554f78.jpg",
     "static/media/hero_text.svg": "/Wharf-velous-Tamsui-01/static/media/hero_text.804a0c28c383c846f7d1f4dc59a3eb49.svg",
     "static/media/ship01.png": "/Wharf-velous-Tamsui-01/static/media/ship01.00feef36b05a703537a7.png",
     "static/media/hero_sun_light.png": "/Wharf-velous-Tamsui-01/static/media/hero_sun_light.c3667eb45656ef3df08c.png",
@@ -57,10 +57,10 @@
     "static/media/title01_wave.svg": "/Wharf-velous-Tamsui-01/static/media/title01_wave.c5c7ac2a54e15b80386e515f3de3c35b.svg",
     "index.html": "/Wharf-velous-Tamsui-01/index.html",
     "static/media/hero_left_corner.svg": "/Wharf-velous-Tamsui-01/static/media/hero_left_corner.c763a962d1bbef9bbe4b6a1ba18d235d.svg",
-    "main.1a1a0a0a.js.map": "/Wharf-velous-Tamsui-01/static/js/main.1a1a0a0a.js.map",
+    "main.e8d14203.js.map": "/Wharf-velous-Tamsui-01/static/js/main.e8d14203.js.map",
     "377.5e2355f2.chunk.js.map": "/Wharf-velous-Tamsui-01/static/js/377.5e2355f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1a1a0a0a.js"
+    "static/js/main.e8d14203.js"
   ]
 }
