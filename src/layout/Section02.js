@@ -79,7 +79,7 @@ const tamsuiMonuments = [
     history:
       '由英商范嘉士(Francis Cass)所建的嘉士洋行倉庫，易主殼牌公司後，在此建立三座油槽存放油類，因氣味濃厚被稱作「臭油棧」。二次世界大戰曾被美軍空襲，引發「火燒臭油棧」事件。',
     address: '新北市淡水區鼻頭街22號',
-    googleMap: '(https://goo.gl/maps/Y2wq7aAduoCa9XSe8',
+    googleMap: 'https://goo.gl/maps/HXtf36GLXaCmQSZP9',
     image: b5,
     outLink: 'http://www.tamsui.org.tw/',
   },
@@ -138,7 +138,7 @@ const mackayMonuments = [
       '馬偕在臺傳教工作受原鄉加拿大牛津郡肯定，獲得的捐款於1881年建立全臺第一所現代化學校「理學堂大書院(牛津學堂，Oxford College)」，教授神學與聖經、社會科學、自然科學、醫學理論及臨床實習等。',
     address: '新北市淡水區真理街32號',
     googleMap: 'https://goo.gl/maps/KsUZWag5JgZU4RkC6',
-    outLink: 'https://www.facebook.com/MackayHouse1875/',
+    outLink: 'https://www.facebook.com/OxfordCollege1882',
   },
   {
     name: '馬偕故居',
@@ -172,7 +172,7 @@ const mackayMonuments = [
     history:
       '馬偕兒子偕叡廉原於理學堂大書院所設，1925年遷至現址。1956年與淡水女學堂(當時改制為「純德女子中學」)合併，更名「私立淡江高級中學」。',
     address: '新北市淡水區真理街26號',
-    googleMap: 'https://goo.gl/maps/Tu7G6DZ87Kns8voV9',
+    googleMap: 'https://goo.gl/maps/ihBkRn2eUL6C1wvD8',
     openInfo: '位於淡江中學校區，無對外開放',
     image: b18,
   },
@@ -181,7 +181,7 @@ const mackayMonuments = [
     history:
       '由馬偕創立的免學費女子學校，教授讀寫、算術、歌唱、地理、婦女技能、聖經等，希望女性透過教育擺脫傳統社會束縛。後與淡水中學校合併，其校舍為今日淡江中學附設的純德小學。',
     address: '新北市淡水區真理街26號',
-    googleMap: 'https://goo.gl/maps/Tu7G6DZ87Kns8voV9',
+    googleMap: 'https://goo.gl/maps/ihBkRn2eUL6C1wvD8',
     openInfo: '位於淡江中學校區，無對外開放',
     image: b19,
   },
@@ -190,7 +190,7 @@ const mackayMonuments = [
     history:
       '吳威廉牧師於1910年創立，作為已婚婦女的學習場域，目的在教育成年婦女並訓練女性傳道人，訓練女性傳教人員，教授中日文讀寫、音樂及聖經，採兩年學制。目前為淡江中學校史館。',
     address: '新北市淡水區真理街26號',
-    googleMap: 'https://goo.gl/maps/Tu7G6DZ87Kns8voV9',
+    googleMap: 'https://goo.gl/maps/ihBkRn2eUL6C1wvD8',
     openInfo: '位於淡江中學校區，無對外開放',
     image: b20,
   },

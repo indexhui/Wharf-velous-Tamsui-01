@@ -23,7 +23,7 @@ import {
   A14,
 } from './section1Content';
 
-import a1 from '../assets/images/a-1.jpg';
+import a1 from '../assets/images/A1.jpeg';
 import a2 from '../assets/images/A2.jpg';
 import a3 from '../assets/images/A-3.png';
 import a4 from '../assets/images/A-4.png';
@@ -35,7 +35,7 @@ import a8 from '../assets/images/A8.png';
 import a9 from '../assets/images/A9.jpg';
 import a10 from '../assets/images/A10.jpg';
 import a11 from '../assets/images/A11.jpg';
-import a12 from '../assets/images/A12.jpg';
+import a12 from '../assets/images/A12.jpeg';
 
 const activities = [
   {
